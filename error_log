@@ -1,0 +1,10 @@
+[22-Jun-2012 04:42:59] PHP Fatal error:  Call to undefined function  strip_html_tags() in /home/phamios/public_html/soundtrend.net/dev/controllers/cp.php on line 1266
+[22-Jun-2012 04:43:48] PHP Fatal error:  Call to undefined function  strip_html_tags() in /home/phamios/public_html/soundtrend.net/dev/controllers/cp.php on line 1266
+[22-Jun-2012 04:43:51] PHP Fatal error:  Call to undefined function  strip_html_tags() in /home/phamios/public_html/soundtrend.net/dev/controllers/cp.php on line 1266
+[22-Jun-2012 04:49:50] PHP Fatal error:  Call to undefined function  strip_html_tags() in /home/phamios/public_html/soundtrend.net/dev/controllers/cp.php on line 1266
+[22-Jun-2012 04:51:09] PHP Fatal error:  Call to undefined function  strip_html_tags() in /home/phamios/public_html/soundtrend.net/dev/controllers/cp.php on line 1266
+[22-Jun-2012 04:51:20] PHP Fatal error:  Call to undefined function  strip_html_tags() in /home/phamios/public_html/soundtrend.net/dev/controllers/cp.php on line 1266
+[22-Jun-2012 04:51:33] PHP Fatal error:  Call to undefined function  strip_html_tags() in /home/phamios/public_html/soundtrend.net/dev/controllers/cp.php on line 1266
+[22-Jun-2012 04:52:43] PHP Fatal error:  Call to undefined function  strip_html_tags() in /home/phamios/public_html/soundtrend.net/dev/controllers/cp.php on line 1256
+[22-Jun-2012 04:53:47] PHP Fatal error:  Call to undefined function  strip_html_tags() in /home/phamios/public_html/soundtrend.net/dev/controllers/cp.php on line 1256
+[22-Jun-2012 23:17:54] PHP Fatal error:  Call to a member function result() on a non-object in /home/phamios/public_html/soundtrend.net/dev/models/merchant_model.php on line 390
